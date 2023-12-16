@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "dd54d70a_2a639fe8",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1194
+      },
+      "writtenOn": "2023-12-16T09:06:43Z",
+      "side": 1,
+      "message": "updated kernel",
+      "revId": "670def43e6f00367d98b4c21735ba0541ea770ee",
+      "serverId": "9c1c7d72-6534-4d44-b0ea-39f63e804833"
+    }
+  ]
+}
