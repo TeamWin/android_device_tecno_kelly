@@ -16,6 +16,23 @@
       "message": "updated kernel",
       "revId": "670def43e6f00367d98b4c21735ba0541ea770ee",
       "serverId": "9c1c7d72-6534-4d44-b0ea-39f63e804833"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0ce8ab97_d5218257",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1
+      },
+      "writtenOn": "2023-12-16T16:51:25Z",
+      "side": 1,
+      "message": "You should now have merge rights.",
+      "revId": "670def43e6f00367d98b4c21735ba0541ea770ee",
+      "serverId": "9c1c7d72-6534-4d44-b0ea-39f63e804833"
     }
   ]
 }
