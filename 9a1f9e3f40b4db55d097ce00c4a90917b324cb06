@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d8527949_e02baecc",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1194
+      },
+      "writtenOn": "2023-12-16T08:30:37Z",
+      "side": 1,
+      "message": "have been getting errors on /tranfs partition, so I removed it from twrp.flags",
+      "revId": "9a1f9e3f40b4db55d097ce00c4a90917b324cb06",
+      "serverId": "9c1c7d72-6534-4d44-b0ea-39f63e804833"
+    }
+  ]
+}
