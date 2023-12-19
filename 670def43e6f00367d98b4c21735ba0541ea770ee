@@ -33,6 +33,23 @@
       "message": "You should now have merge rights.",
       "revId": "670def43e6f00367d98b4c21735ba0541ea770ee",
       "serverId": "9c1c7d72-6534-4d44-b0ea-39f63e804833"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "04188b92_6890e713",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1194
+      },
+      "writtenOn": "2023-12-19T09:05:32Z",
+      "side": 1,
+      "message": "not sure if I know how to do that in gerrit",
+      "revId": "670def43e6f00367d98b4c21735ba0541ea770ee",
+      "serverId": "9c1c7d72-6534-4d44-b0ea-39f63e804833"
     }
   ]
 }
